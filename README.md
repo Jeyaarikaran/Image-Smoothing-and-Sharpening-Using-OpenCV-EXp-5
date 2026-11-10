@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Aim
 
@@ -166,3 +167,6 @@ The smoothing filters reduce noise and improve image quality, while sharpening f
 =======
 # image-enhancement-filters-opencv
 >>>>>>> 48bd261fdfa3a8393148dee373a9a7cb2f2d745c
+=======
+# Image-Smoothing-and-Sharpening-Using-OpenCV-EXp-5
+>>>>>>> c6c96a21f0b8c07fd3cbee2d62917f0a1bf163c0
